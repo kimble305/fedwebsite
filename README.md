@@ -40,11 +40,13 @@ link naar de website die je gaat namaken óf de naam/omschrijving van je eigen o
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homescherm  
-<img src="C:\Users\kimka\Documents\CMD\basiswebsite\images\6A5716DE-D97B-449F-A029-9E571ED23DBE.jpg" width="375px" alt="omschrijving van de pagina">
+![6A5716DE-D97B-449F-A029-9E571ED23DBE](https://user-images.githubusercontent.com/90153306/141326770-24156f73-8277-49e8-87b6-bee9fdf055b4.jpg)
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Vind ik leuk-scherm 
-<img src="C:\Users\kimka\Documents\CMD\basiswebsite\images\1A098667-AB5B-4130-8936-B83CC97E907A.JPEG" width="375px" alt="omschrijving van de pagina">
+![1A098667-AB5B-4130-8936-B83CC97E907A](https://user-images.githubusercontent.com/90153306/141326905-a1d98f7f-7bd3-42b2-bd56-8c7d4da561e0.JPEG)
+
+
 </details>
 
 
