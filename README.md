@@ -60,8 +60,9 @@ Ik wist al vrij snel dat ik wilde gaan voor het namaken van Spotify. Het is een 
 ### de hele pagina: 
 <img src="C:\Users\kimka\Documents\CMD\basiswebsite\images\schets 1.png" width="375px" alt="breakdown van de hele pagina">
 
+
 ### dynamisch deel (bijv menu): 
-<img src="C:\Users\kimka\Documents\CMD\basiswebsite\images\schets 2.png" width="375px" alt="breakdown van een dynamisch deel">
+ ![Schermopname (1185)](https://user-images.githubusercontent.com/90153306/141326563-a73ca3c4-be7c-40cf-aad7-7228bae6a2d4.png)
 
 </details>
 
