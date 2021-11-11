@@ -60,11 +60,9 @@ Vind ik leuk-scherm
 Ik wist al vrij snel dat ik wilde gaan voor het namaken van Spotify. Het is een site die ik bijna 24/7 gebruik en ook erg interessant vind om te maken. 
 
 ### de hele pagina: 
-<img src="C:\Users\kimka\Documents\CMD\basiswebsite\images\schets 1.png" width="375px" alt="breakdown van de hele pagina">
+![Schermopname (1185)](https://user-images.githubusercontent.com/90153306/141327073-4ddd61d5-df6c-4b8d-b495-a3a582a367f4.png)
+![Schermopname (1186)](https://user-images.githubusercontent.com/90153306/141327086-e4dabae2-6f04-477c-b179-b9db0687c588.png)
 
-
-### dynamisch deel (bijv menu): 
- ![Schermopname (1185)](https://user-images.githubusercontent.com/90153306/141326563-a73ca3c4-be7c-40cf-aad7-7228bae6a2d4.png)
 
 </details>
 
@@ -169,6 +167,7 @@ Tijdens het voorgangsgesprek kwamen ik en Sanne er achter dat er nog veel aangep
 Ook moest de 'Vind ik leuk' pagina aangepast worden. Ik had nog geen gebruik gemaakt van grids, deze zijn erg handig bij zo'n soort lijst. 
 
 Op dit moment kwam ik erachter dat ik waarschijnlijk moest gaan voor de herkansing. Dit zorgde voor stress, deze week had ik er hard aan gewerkt om stappen te maken om dichterbij de voldoende te komen.
+![Schermopname (1097)](https://user-images.githubusercontent.com/90153306/141327284-b77c3635-63e0-4955-a619-5749d4c3ce18.png)
 
 
 ### Agenda voor meeting
@@ -205,9 +204,9 @@ Toen ik weer goed bezig was kwamen ik en Sanne erachter dat er nog een hoop vera
 Uiteindelijk ben ik erg trots op mezelf dat ik een site heb neergezet die er uit ziet als Spotify. Ook al is FED niet mijn sterkste vak, ben ik blij met de site die ik heb gemaakt.
 
 ### Screenshot(s)
+![Schermopname (1181)](https://user-images.githubusercontent.com/90153306/141327400-c7dc3967-8d95-485c-9c0b-aca9089d744f.png)
+![Schermopname (1182)](https://user-images.githubusercontent.com/90153306/141327421-cced7c73-ff4c-46c1-b731-290fafe2312a.png)
 
-<img src="C:\Users\kimka\Documents\CMD\basiswebsite\images\Schermopname (1181).png" alt="site1">
-<img src="C:\Users\kimka\Documents\CMD\basiswebsite\images\Schermopname (1182).png" alt="site2">
 
 
 </details>
@@ -220,8 +219,6 @@ Uiteindelijk ben ik erg trots op mezelf dat ik een site heb neergezet die er uit
 
 <details open>
 <summary>continu bijhouden terwijl je werkt</summary>
-
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. https://www.w3schools.com/tags/tag_section.asp
 2. https://www.w3schools.com/js/js_variables.asp
